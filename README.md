@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=junehui00%20:four_leaf_clover:&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=junehui00%20four_leaf_clover:&fontSize=90)
 
 [![C++](https://img.shields.io/badge/C++-F7DF1E?style=flat-square&logo=C++&logoColor=black)]
